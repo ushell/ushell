@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⛏ A PHPer & Gopher
-- 🔋 Foucs on web development now
+- 🖥 Foucs on web development now
 
-[![ME](https://github-readme-stats.vercel.app/api?username=ushell)]()
+[![ME](https://github-readme-stats.vercel.app/api?username=ushell&show_icons=true&theme=radical)]()
