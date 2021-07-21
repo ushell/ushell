@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⛏ A PHPer & Gopher backend engineer
+- ⛏ A PHPer & Gopher
 - 🔋 Foucs on web development now
 
 [![ME](https://github-readme-stats.vercel.app/api?username=ushell)]()
