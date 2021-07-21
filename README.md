@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - I'm a PHPer & Gopher
 - I'm foucs on web development now
 
-[![ME](https://github-readme-stats.vercel.app/api?username=ushell&show_icons=true&theme=radical)]()
+[![ME](https://github-readme-stats.vercel.app/api?username=ushell&show_icons=true&theme=radical&hide=issues)]()
