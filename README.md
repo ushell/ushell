@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👇
 
 <!--
 **ushell/ushell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⛏ A PHPer & Gopher backend engineer
+- 🔋 Foucs on web development now
+
+[![ME](https://github-readme-stats.vercel.app/api?username=ushell)]()
