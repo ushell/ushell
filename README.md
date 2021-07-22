@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a PHPer & Gopher
-- I'm foucs on web development now
+- ⚡ PHPer & Gopher
+- 😄 Foucs on web development now
 
 [![ME](https://github-readme-stats.vercel.app/api?username=ushell&show_icons=true&theme=radical&hide=issues)]()
