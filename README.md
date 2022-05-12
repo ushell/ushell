@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡ PHPer & Gopher
-- 😄 Foucs on web development now
+- 🧑🏼‍💻 Foucs on web development now
+- 🥷🏼 Hack every interesting thing
 
 [![ME](https://github-readme-stats.vercel.app/api?username=ushell&show_icons=true&theme=radical&hide=issues)]()
