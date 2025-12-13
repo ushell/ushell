@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ PHPer & Gopher & More🤔
-- 🧑🏼‍💻 Foucs on web development and system design
-- 🥷🏼 Hack every interesting thing
+- 🥷🏼 Code. Explore. Hack interesting things. ⚡ 
 
 [![ME](https://github-readme-stats.vercel.app/api?username=ushell&show_icons=true&theme=radical&hide=issues)]()
