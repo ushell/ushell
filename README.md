@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 - 🥷🏼 Code. Explore. Hack interesting things. ⚡ 
 
-[![ME](https://github-readme-stats.vercel.app/api?username=ushell&show_icons=true&theme=radical&hide=issues)]()
+
