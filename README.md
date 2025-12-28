@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🥷🏼 Code. Explore. Hack interesting things. ⚡ 
+- 🥷🏼 Code. Hiking. Love interesting things. ⚡ 
 
 
